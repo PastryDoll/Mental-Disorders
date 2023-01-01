@@ -9,6 +9,7 @@ Below we plot some of the most important graphs of this notebook:
 ![baixados](https://user-images.githubusercontent.com/110412014/209639368-c9e46acc-0f95-4bb8-b980-373b05906f47.png)
 ![baixados (1)](https://user-images.githubusercontent.com/110412014/209639317-0d5f7859-a9d7-4454-9a43-3b63a78950d6.png)
 ![baixados (2)](https://user-images.githubusercontent.com/110412014/209639321-8683e8e6-ff34-4b86-b418-c66c0262a1c1.png)
+![img](https://user-images.githubusercontent.com/110412014/210187293-68827fe4-0418-4aa9-84e3-039940fc40e2.png)
 ![baixados (3)](https://user-images.githubusercontent.com/110412014/209639324-ba5b5e2b-f945-4fc7-9457-2fa597e261a4.png)
 ![baixados (4)](https://user-images.githubusercontent.com/110412014/209639327-af7c7b6f-f103-47a1-9522-6dc2b9b4ce0c.png)
 ![baixados (5)](https://user-images.githubusercontent.com/110412014/209639335-947794f7-c432-4387-aa93-80938c673624.png)
